@@ -735,3 +735,11 @@ http://magmas5.com:8000/live/malotv/gratis/57.m3u8
 http://magmas5.com:8000/live/malotv/gratis/148541.m3u8
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="110",Golden Plus
+
+
+http://magmas5.com:8000/live/malotv/gratis/4288.m3u8
+
+
