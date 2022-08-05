@@ -1,5 +1,4 @@
 # hoy
-
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1",Gol Peru
@@ -711,5 +710,28 @@ http://magmas5.com:8000/live/malotv/gratis/134672.m3u8
 #EXTINF:-1 tvg-chno="108",De pelicula mx
 
 http://magmas5.com:8000/live/malotv/gratis/138187.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="109",Star Channel Clasics mx
+
+http://magmas5.com:8000/live/malotv/gratis/65.m3u8
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="110",Fox Movie mx
+
+http://magmas5.com:8000/live/malotv/gratis/57.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="110",StarKidz family
+
+
+http://magmas5.com:8000/live/malotv/gratis/148541.m3u8
 
 
